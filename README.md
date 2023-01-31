@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/halhesp/HALIT%20-%20Azure%20Enterprise%20Scale%20Platform/_apis/build/status/WhatIfReporter/Build%20WhatIfReporter?branchName=main)](https://dev.azure.com/halhesp/HALIT%20-%20Azure%20Enterprise%20Scale%20Platform/_build/latest?definitionId=185&branchName=main)
 
 # Contributing
 
